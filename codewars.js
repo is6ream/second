@@ -4,3 +4,4 @@ class Warrior {
         this.health = 100;
     }
 };
+
